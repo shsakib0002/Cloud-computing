@@ -1,0 +1,14 @@
+section {
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.service {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #f4f4f4;
+}
+
+.service h3 {
+  margin-top: 0;
+}
